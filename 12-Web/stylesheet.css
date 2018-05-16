@@ -1,0 +1,37 @@
+navbarf{
+    padding:20px;
+    background: white
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    background: #fff;
+    border-radius: 3px;
+}
+/*title top left
+h1 {
+    background:teal;
+    font-weight: bold;
+    margin-left: 20px;
+    color: white;
+}
+/*landing page_white padding
+h2{
+padding:80px;
+background: white;
+margin-left: 10px;
+margin-top: 25px;
+margin-right: 45px;
+}
+
+/*landing page: main text box header
+h2_1{
+    background: white;
+    font-weight: bold;
+    margin-left: 20px;
+    color: teal;
+}
